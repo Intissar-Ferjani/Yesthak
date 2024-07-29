@@ -1,0 +1,1 @@
+<a href="{{ route('delete', $pot->id) }}" class="btn btn-icon"><i class="fa-solid fa-eraser"></i></a>
